@@ -31,3 +31,5 @@ __pycache__
 /sprites-gfx
 /glsl-shaders
 /token.txt
+.direnv/
+/result
